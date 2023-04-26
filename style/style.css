@@ -1,0 +1,56 @@
+.logo{
+
+    height: 11em;
+    padding-top: 10px;
+}
+.navbar{
+    max-height:75px;
+}
+.nav-link{
+    color: black;
+    font-size: 18px;
+}
+.nav-link:hover{
+    color: rgb(223, 148, 9);
+}
+.heading:hover{
+    text-decoration: underline rgb(223, 148, 9);
+}
+.color-teal {
+    color: rgb(223, 148, 9);
+   
+}
+
+.icon-lg {
+    font-size: 50px;
+}
+
+.icon-sm {
+    font-size: 25px;
+}
+.p-icon{
+    background-image: url("../img/p-icon.jpeg");
+}
+.t{
+    font-size: 22px;
+}
+.uni{
+    list-style-type:disc ;
+}
+.card-title{
+    font-size: 50px;
+}
+.bi{
+    font-size: 35px;
+    
+}
+.soc{
+    list-style-type: none;
+    color: white;
+}
+.soc:hover{
+    color:rgb(223, 148, 9);
+}
+
+
+
